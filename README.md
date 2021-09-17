@@ -1,18 +1,18 @@
-# Tensor Flow Project
+# 📡📚Tensor Flow Project📚💻
 
-## To use tensorflow it is necessary to follow the following steps
+## 📚To use tensorflow it is necessary to follow the following steps📚
 
 #### 1.Set up and install TensorFlow and OpenCV on your Raspberry Pi by following this great guide by Evan https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi/blob/master/Object_detection_picamera.py The guide walks through the following steps:
 
-##### Update the Raspberry Pi
+##### 💹 Update the Raspberry Pi
 
-##### Install TensorFlow
+##### 💹 Install TensorFlow
 
-##### Install OpenCV
+##### 💹 Install OpenCV
 
-##### Compile and install Protobuf
+##### 💹 Compile and install Protobuf
 
-##### Set up TensorFlow directory structure and the PYTHONPATH variable
+##### 💹 Set up TensorFlow directory structure and the PYTHONPATH variable
 
 #### 2. Make sure your camera is configured by following these instructions https://www.raspberrypi.org/documentation/configuration/camera.md
 #### 3. Download or clone this Repo and put the open_cv_group_detection.py in your /object_detection directory
